@@ -1348,6 +1348,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1761357916813",
+      "title": "Self-Hosted",
+      "icon": "Home",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
