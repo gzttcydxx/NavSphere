@@ -1355,7 +1355,16 @@
       "icon": "Home",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1761701883005_ewg9gy2qb",
+          "title": "青龙面板",
+          "href": "https://ql.gzttc.me",
+          "description": "自动化脚本运行",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=ql.gzttc.me",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
